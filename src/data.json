@@ -1,0 +1,221 @@
+{
+    "Dairy": [
+        {
+            "id": "1",
+            "title": "MILK",
+            "image": "images/header/dairy/dairy-milk.png"
+        },
+        {
+            "id": "2",
+            "title": "GHEE",
+            "image": "images/header/dairy/dairy-ghee.png"
+        },
+        {
+            "id": "3",
+            "title": "PANEER",
+            "image": "images/header/dairy/dairy-paneer.png"
+        },
+        {
+            "id": "4",
+            "title": "BUTTER",
+            "image": "images/header/dairy/dairy-butter.png"
+        },
+        {
+            "id": "5",
+            "title": "BUTTERMILK",
+            "image": "images/header/dairy/dairy-buttermilk.png"
+        },
+        {
+            "id": "6",
+            "title": "CURD",
+            "image": "images/header/dairy/dairy-curd.png"
+        },
+        {
+            "id": "7",
+            "title": "LASSI",
+            "image": "images/header/dairy/dairy-lassi.png"
+        },
+        {
+            "id": "8",
+            "title": "ICECREAMS",
+            "image": "images/header/dairy/dairy-icecream.png"
+        }
+    ],
+    "vegetables": [
+        {
+            "id": "1",
+            "title": "RIDGE GOOURD",
+            "image": "images/header/Vegetables/ridge-gourd.png"
+        },
+        {
+            "id": "2",
+            "title": "BOTTLE GOOURD",
+            "image": "images/header/Vegetables/bottle-gourd.png"
+        },
+        {
+            "id": "3",
+            "title": "BITTER GOOURD",
+            "image": "images/header/Vegetables/bitter-gourd.png"
+        },
+        {
+            "id": "4",
+            "title": "BRINJAL",
+            "image": "images/header/Vegetables/brinjal.png"
+        },
+        {
+            "id": "5",
+            "title": "LADIES FINGER",
+            "image": "images/header/Vegetables/ladies-finger.png"
+        },
+        {
+            "id": "6",
+            "title": "TOMATO",
+            "image": "images/header/Vegetables/tomato.png"
+        },
+        {
+            "id": "7",
+            "title": "VIEW ALL",
+            "image": "images/header/Vegetables/view-all.png"
+        },
+        {
+            "id": "8",
+            "title": "SIRRU KEERAI",
+            "image": "images/header/Vegetables/sirru-keerai.png"
+        },
+        {
+            "id": "9",
+            "title": "MULAI KEERAI",
+            "image": "images/header/Vegetables/mulai-keerai.png"
+        },
+        {
+            "id": "10",
+            "title": "PUDINA",
+            "image": "images/header/Vegetables/pudina.png"
+        },
+        {
+            "id": "11",
+            "title": "ARAI KEERAI",
+            "image": "images/header/Vegetables/arai-keerai.png"
+        },
+        {
+            "id": "12",
+            "title": "CORIANDER LEAF",
+            "image": "images/header/Vegetables/coriander-leaf.png"
+        },
+        {
+            "id": "13",
+            "title": "PONNANGANI LEAF",
+            "image": "images/header/Vegetables/ponnangani-leaf.png"
+        }
+    ],
+    "eggs": [
+        {
+            "id": "1",
+            "title": "COUNTRY EGG",
+            "image": "images/header/Egg/country-egg.png"
+        },
+        {
+            "id": "2",
+            "title": "KADAI EGG",
+            "image": "images/header/Egg/kadai-egg.png"
+        },
+        {
+            "id": "3",
+            "title": "VIEW ALL",
+            "image": "images/header/Egg/view-all.png"
+        }
+    ],
+    "rice": [
+        {
+            "id": "1",
+            "title": "ARHAR DHAL",
+            "image": "images/header/Rices-Pulses/arhar-dhal.png"
+        },
+        {
+            "id": "2",
+            "title": "SEERAGA SAMBA",
+            "image": "images/header/Rices-Pulses/seeraga-samba.png"
+        },
+        {
+            "id": "3",
+            "title": "PANVIEW ALLEER",
+            "image": "images/header/Rices-Pulses/view-all.png"
+        }
+    ],
+    "fertilizers": [
+        {
+            "id": "1",
+            "title": "ORGANIC MANURE",
+            "image": "images/header/Fertilisers/organic-manure.png"
+        },
+        {
+            "id": "2",
+            "title": "GOMUTRA",
+            "image": "images/header/Fertilisers/goumutra.png"
+        },
+        {
+            "id": "3",
+            "title": "COWDUNG CAKE",
+            "image": "images/header/Fertilisers/cowdung-cake.png"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "MILK",
+            "image": "images/milk.png"
+        },
+        {
+            "id": "2",
+            "title": "GHEE",
+            "image": "images/milk.png"
+        },
+        {
+            "id": "3",
+            "title": "PANEER",
+            "image": "images/milk.png"
+        }
+    ],
+    "home_product": [
+        {
+            "id": "1",
+            "title": "DAIRY",
+            "image": "images/dairy-product.png"
+        },
+        {
+            "id": "2",
+            "title": "VEGETABLES",
+            "image": "images/vegetables-product.png"
+        },
+        {
+            "id": "3",
+            "title": "EGG",
+            "image": "images/egg-product.png"
+        },
+        {
+            "id": "4",
+            "title": "RICE & PULSES",
+            "image": "images/rice-product.png"
+        },
+        {
+            "id": "5",
+            "title": "FERTILISER",
+            "image": "images/fertilizers-product.png"
+        },
+        {
+            "id": "6",
+            "title": "FARM VISIT",
+            "image": "images/farm-product.png"
+        },
+        {
+            "id": "7",
+            "title": "GOUPOOJA",
+            "image": "images/goupooja-product.png"
+        },
+        {
+            "id": "8",
+            "title": "DONATE",
+            "image": "images/donate-product.png"
+        }
+    ]
+}
