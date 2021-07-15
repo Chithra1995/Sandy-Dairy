@@ -177,18 +177,6 @@ export default function Userprofile() {
                 <div className={tab === "tab2" ? "tab active" : "tab"}>
                   <form>
                     <div className="row">
-                      <div className="col-md-12 text-right">
-                        <Link onClick={editable}>
-                          {edit ? (
-                            <EditIcon></EditIcon>
-                          ) : (
-                            <CloseIcon></CloseIcon>
-                          )}
-                        </Link>
-                        <Link>
-                          <SaveIcon className="text-success ml-2  "></SaveIcon>
-                        </Link>
-                      </div>
                       <div className="col-md-12">
                         <div class="form-group">
                           <label for="FirstName">Manage Addresses</label>
