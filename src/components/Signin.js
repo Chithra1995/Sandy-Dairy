@@ -95,7 +95,7 @@ export default function Signin() {
                     margin="normal"
                     required
                     fullWidth
-                    label="Enter Email or Phone Number"
+                    label="Enter   or Phone Number"
                     autoFocus
                     value={username}
                     onChange={(event) => setUsername(event.target.value)}

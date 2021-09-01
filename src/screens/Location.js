@@ -58,6 +58,12 @@ export default function LocationDesign() {
           ></input>
         </div>
       </div>
+      {addressinfo && (
+        <div>
+          <p>Address: {addressinfo.address}</p>
+          <p>Pincode: {addressinfo.pincode}</p>
+        </div>
+      )}
     </div>
   );
 }

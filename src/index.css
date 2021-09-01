@@ -1880,11 +1880,11 @@ a.toggle-menu {
     height: 300px;
   }
 }
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
   .App {
     display: none;
   }
-}
+} */
 
 /*User profile design style starts*/
 .user-profile-design {
